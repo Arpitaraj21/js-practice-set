@@ -1,0 +1,23 @@
+...args -> it's both spread and rest operator
+
+
+what's the difference between them?
+-> difference is what is the challenge we are facing based on this
+it changes to either spread or rest operator.
+
+
+
+*** problem ***
+
+1) when our functions expect individual values but our values comes 
+as a pack or bunch
+
+
+
+//  ************** spread operator **************** //
+
+what spread operator does , it takes the group and it tries to spread 
+it into the multiple values. 
+
+
+when we use rest operator, it will bunch out the values in an array
