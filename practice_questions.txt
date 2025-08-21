@@ -1,0 +1,175 @@
+🟢 Beginner Level (Basics, Conditions, Loops, Functions)
+🔹 1. If-Else & Comparison
+Write a program to check if a number is positive, negative, or zero.
+
+Take a number input and print if it is even or odd.
+
+Create a program that checks if a person is eligible to vote (age >= 18).
+
+Write a program that returns the largest of three numbers.
+
+Grade calculator (input: marks, output: grade A/B/C/...).
+
+🔹 2. Loops
+Print numbers from 1 to 50 using a loop.
+
+Print even numbers between 1 to 100.
+
+Print the multiplication table of a number using for loop.
+
+Calculate the sum of digits of a number.
+
+Print all prime numbers between 1 and 100.
+
+🔹 3. Functions
+Write a function to check if a number is a palindrome.
+
+Write a function that returns the factorial of a number.
+
+Write a function to reverse a string.
+
+Create a function that takes a string and returns the number of vowels.
+
+Create a function to check if a string is a palindrome.
+
+🟡 Intermediate Level (Arrays, Objects, Higher Order Functions)
+🔹 4. Arrays
+Find the maximum and minimum in an array.
+
+Reverse an array without using .reverse().
+
+Remove duplicates from an array.
+
+Find the sum of all numbers in an array using a loop.
+
+Check if an array contains a specific element.
+
+🔹 5. Array Methods (map, filter, reduce, forEach)
+Use map() to square each element in an array.
+
+Use filter() to return only even numbers from an array.
+
+Use reduce() to find the sum of all numbers in an array.
+
+Use forEach() to print each item with its index.
+
+Use map() to return an array of string lengths.
+
+🔹 6. Objects
+Create an object representing a student with name, age, and subjects.
+
+Add a method to the object to return a greeting.
+
+Loop through an object and print all keys and values.
+
+Merge two objects.
+
+Write a function that takes an array of users and returns only the names.
+
+🔵 Advanced DOM Manipulation & Events
+🔹 7. DOM Manipulation (You’ll need HTML for these)
+Write JS to change the content of a <div> when a button is clicked.
+
+Change the background color of a page using a dropdown/select.
+
+Create a to-do list that lets users add and remove items.
+
+Count the number of characters entered in a text box live.
+
+Toggle between light mode and dark mode with a button.
+
+🔹 8. Event Handling
+Display an alert when a button is clicked.
+
+Show input value in real-time below the input field.
+
+Add event listeners to multiple buttons (loop through them).
+
+Disable a button after it’s clicked once.
+
+Handle keyboard events (e.g., detect when Enter key is pressed).
+
+🟣 Extra Challenges (Mix of Logic + JS Concepts)
+FizzBuzz: Print 1 to 100. For multiples of 3, print “Fizz”, for 5 “Buzz”, and for both “FizzBuzz”.
+
+Anagram Checker: Write a function that checks if two strings are anagrams.
+
+Implement a counter with increment, decrement, and reset.
+
+Build a clock that updates every second (use setInterval).
+
+Create a custom dropdown menu (without using <select>).
+
+
+
+
+
+
+🔹 Part 1: Pure JavaScript Logic Questions (Console-based)
+
+Reverse a String
+Write a function that takes a string and returns it reversed.
+Example: "hello" → "olleh"
+
+Palindrome Checker
+Check if a given string is a palindrome (same forwards and backwards).
+Example: "madam" → true
+
+Fibonacci Series
+Print the first n Fibonacci numbers.
+Example: n=5 → 0,1,1,2,3
+
+Factorial of a Number
+Find the factorial using recursion and iteration.
+Example: 5! = 120
+
+Find Largest Number in Array
+Given [4, 9, 1, 7, 3] → Output: 9
+
+Sum of Digits
+Input: 1234 → Output: 10 (1+2+3+4)
+
+Count Vowels in String
+Input: "javascript" → Output: 3
+
+Find Duplicates in Array
+Input: [1,2,3,2,4,1] → Output: [1,2]
+
+Check Prime Number
+Input: 7 → Output: true
+
+Anagram Checker
+Check if two strings are anagrams.
+Example: "listen" and "silent" → true
+
+🔹 Part 2: DOM + JavaScript (with HTML)
+
+Counter App
+Create a button + and -. Clicking should increase/decrease a number displayed on screen.
+
+To-Do List
+Input box + button → Add tasks below. Each task should have a delete button.
+
+Background Color Changer
+Create a button → on click, background color of page changes randomly.
+
+Form Validation
+Create a form with name, email, password fields. Validate on submit (email format, password length).
+
+Image Slider
+Display 3 images with "Next" and "Previous" buttons to slide through them.
+
+Show/Hide Password
+Password input with an eye icon → toggles between visible and hidden.
+
+Character Counter
+Textarea with live counter showing how many characters typed.
+
+Light/Dark Mode Toggle
+Button that switches between light and dark themes.
+
+Stopwatch
+Start, stop, reset buttons to make a stopwatch.
+
+Fetch API Example
+Fetch data from https://jsonplaceholder.typicode.com/posts and display titles in a list.
